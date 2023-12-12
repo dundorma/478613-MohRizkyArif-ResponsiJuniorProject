@@ -1,3 +1,7 @@
+| Nama       | NIM |
+|--------------|------:|
+| Moh Rizky Arif |  21/478613/TK/52741 |
+
 # Setting Up the Database
 ```sql
 create database responsi2;
